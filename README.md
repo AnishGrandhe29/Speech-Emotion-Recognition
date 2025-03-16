@@ -27,12 +27,12 @@ pip install -r requirements.txt
 5. Run the script
 Modify the dataset path and the actor to train on in main.py, then execute:
 
-bash
+bash:
 python main.py
 
-Results
+Results:
 Model performance is displayed via classification reports and a confusion matrix
 Audio files are automatically moved into categorized folders based on the predicted emotion
 
-Requirements
+Requirements:
 See requirements.txt for required dependencies.
